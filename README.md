@@ -1,3 +1,3 @@
 # git-demo-groceries
 
-My weekly groceries.
+Sample repo for the [git blog](https://techmormo.com/posts/basics-of-git-and-github/).
